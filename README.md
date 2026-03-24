@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="(input new image here)"  />
+  <img height="150" src="images.jpg"  />
 </div>
 
 ###
