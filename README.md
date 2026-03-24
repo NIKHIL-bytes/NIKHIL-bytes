@@ -39,7 +39,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Nikhil Raj from Jamshedpur, Jharkhand, India currently in Vadodara, Gujarat, India<br><br>- 🔭 I’m a cyber security analyst.<br>- 📚 I'm learning new things about cyber security every day.<br>- ⚡ In my free time I like to stream movies and series.</p>
 
 ###
 
